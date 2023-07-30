@@ -38,7 +38,8 @@ non-technical stakeholders
 6. Employees earning a monthly salary ≤ 5,000 rupees contribute to 21.8% attrition
 7. Most attrition incidents occur after completing one year in the organization
 
-## Actions Based on the analysis, it is evident that a significant majority of the employees (163 out of 237) who decided to leave the organization were receiving salaries below the company's average of 6.5K rupees. This observation provides an actionable insight that improving compensation for these individuals could potentially help reduce attrition rates within the company.
+## Actionable Insights
+Based on the analysis, it is evident that a significant majority of the employees (163 out of 237) who decided to leave the organization were receiving salaries below the company's average of 6.5K rupees. This observation provides an actionable insight that improving compensation for these individuals could potentially help reduce attrition rates within the company.
 
 ### Tools used
 1. Power BI
