@@ -1,5 +1,7 @@
 # HR_ATTRITION_ANALYTICS
-<img width="989" alt="dashboard img" src="https://github.com/GauravThaku0/HR_ATTRITION_ANALYTICS/assets/79090971/fc01ae44-8e5a-49b5-8287-b5aad9b0835e">
+![HR dashboard_page-0001](https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/678a1ec2-c3d6-4b57-8707-6a72a17330da)
+
+
 
 
 
