@@ -1,4 +1,4 @@
-# HR ATTRITION ANALYTICS
+# HR ATTRITION ANALYTICS DASHBOARD
 ![HR dashboard_page-0001](https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/678a1ec2-c3d6-4b57-8707-6a72a17330da)
 
 
