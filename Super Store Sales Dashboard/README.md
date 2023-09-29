@@ -1,7 +1,7 @@
 # SUPER STORE ANALYTICS DASHBOARD
-![Super Store Sales dashboard_page-0001](https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/642fa950-d56d-4f98-ada3-34e7bfc0d836)
+<img width="940" alt="Screenshot 2023-09-29 121306" src="https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/29ce2243-4709-4e4c-adfe-8a6ba56b799b">
 
-![Super Store Sales dashboard_page-0002](https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/11f695e5-05de-4cc1-bac1-91253f094674)
+<img width="888" alt="Screenshot 2023-09-29 121322" src="https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/9254ea5e-e166-49a6-944b-b20eaa07eac5">
 
 
 
