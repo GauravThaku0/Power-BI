@@ -1,3 +1,5 @@
+## Interact with Project Live here: https://www.novypro.com/project/hr-attrition-dashboard-power-bi-2
+
 # HR ATTRITION ANALYTICS DASHBOARD
 <img width="935" alt="Screenshot 2023-09-29 114914" src="https://github.com/GauravvThakurr/Power_BI_Projects/assets/141028751/fb3dded4-a557-4b32-bd5a-6c5dbe60ef8a">
 
