@@ -1,4 +1,4 @@
-## Click here to See it Live: https://www.novypro.com/project/gen-z-aspiration-power-bi-dashbord
+## Click here to see this project Live: https://www.novypro.com/project/gen-z-aspiration-power-bi-dashbord
 
 ***
 
@@ -7,6 +7,13 @@
 
 ***
 
-### Dashboard
+## Dashboard 
 
-[Gen-Z Dashboard Power Bi Dashbord.pdf](https://github.com/GauravvThakurr/Power-BI-Projects/files/13403106/Gen-Z.Dashboard.Power.Bi.Dashbord.pdf)
+<img width="997" alt="Screenshot 2023-11-19 175230" src="https://github.com/GauravvThakurr/Power-BI-Projects/assets/141028751/77b9eb7e-d622-42ae-82b4-e41b569e1a40">
+
+<img width="995" alt="Screenshot 2023-11-19 175244" src="https://github.com/GauravvThakurr/Power-BI-Projects/assets/141028751/43ce1fb1-33be-474f-ab3a-af1417d281ac">
+
+<img width="1010" alt="Screenshot 2023-11-19 175305" src="https://github.com/GauravvThakurr/Power-BI-Projects/assets/141028751/9f300b15-19c8-416a-bc80-b584f78fabf6">
+
+
+
