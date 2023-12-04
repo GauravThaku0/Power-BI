@@ -1,4 +1,4 @@
-## Interact with Project Live heree: https://www.novypro.com/project/gen-z-aspiration-power-bi-dashbord
+## Interact with Project Live here: https://www.novypro.com/project/gen-z-aspiration-power-bi-dashbord
 
 ***
 
